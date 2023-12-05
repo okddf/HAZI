@@ -1,0 +1,16 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": {
+        "include": [
+            "lib/**/*.jar",
+            "c:\\Users\\Gergo\\Downloads\\junit-4.13.2.jar",
+            "c:\\Users\\Gergo\\Downloads\\hamcrest-core-1.3.jar",
+            "c:\\Users\\Gergő\\Downloads\\junit-4.8.jar\\junit-4.8.jar",
+            "c:\\Users\\Gergő\\Downloads\\hamcrest-all-1.3.jar\\hamcrest-all-1.3.jar"
+        ],
+        "exclude": [
+            "c:\\Users\\Gergo\\Downloads\\junit-4.13.2.jar"
+        ]
+    }
+}
